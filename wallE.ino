@@ -1,6 +1,7 @@
 #include <SoftwareSerial.h>
 #include <LiquidCrystal_I2C.h>
 
+#define I_DONT_WANNA_GO_TO_SCHOOL '100000000000000000'
 #define UP 'w'
 #define DOWN 's'
 #define RIGHT 'a'
